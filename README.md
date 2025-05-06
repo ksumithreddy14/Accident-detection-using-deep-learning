@@ -2,7 +2,7 @@
 
 Open anaconda prompt
 "conda activate tf"
-"cd <file-path>"
+"cd <file path>"
 "python app.py"
 
 You can see the accident is detected when you show a accident footage 
